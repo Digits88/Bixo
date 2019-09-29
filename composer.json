@@ -4,6 +4,10 @@
     "description": "Laravel based ERP and CRM framework.",
     "keywords": [
         "framework",
+        "bixo",
+        "lavalite",
+        "erp",
+        "crm",
         "laravel"
     ],
     "license": "MIT",
