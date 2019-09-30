@@ -72,7 +72,7 @@
 
         <div class="content">
             <div class="title m-b-md">
-                {{config('app.name', 'BIXO')}}
+                {{config('app.name', 'biXo')}}
             </div>
 
             <div class="links">
